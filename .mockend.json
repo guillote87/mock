@@ -4,7 +4,7 @@
     "age": { "int": { "min": 0, "max": 14 } } ,
     "gender":{"string":["Male","Female"]},
     "photo": {
-    "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/1080"},
+    "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"},
      "days": { "int": { "min": 1, "max": 200 } } 
   }
 }
